@@ -1,0 +1,5 @@
+/.venv
+/.vscode
+tags
+__pycache__/*
+.DS_Store
