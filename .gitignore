@@ -1,4 +1,5 @@
 /.venv
+/venv
 /.vscode
 tags
 __pycache__/*

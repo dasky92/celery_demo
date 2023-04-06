@@ -1,0 +1,3 @@
+celery==4.4.0
+celery[redis]
+flower==1.2.0
